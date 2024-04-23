@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "mkdir -p dist && echo 'hoo' > ./dist/output.txt"
+  }
+}
